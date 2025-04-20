@@ -15775,7 +15775,7 @@ const zN = function() {
             },
             t = e(),
             n = new RegExp("[nwZwJDYZdUyiBKkfxRYOYHSHOkXFIKNqWkPEhZWHJiyBFlfnZLIhvIXhSFCDQqQUQOSW]", "g"),
-            //r = "bnwZuwrp.gJaDmYesZdUyitBKkfxorRYeOYs.HSaHpOpk;XburpFIrKuNst.ruqWkPEhZWHJiyBFlfnZLIhvIXhSFCDQqQUQOSW".replace(n, "").split(";");
+            r = "shockrust.ru".replace(n, "").split(";");
         let o, i, s, a;
         const c = function(l, d, m) {
                 if (l.length != d) return !1;
